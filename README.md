@@ -1,4 +1,4 @@
-# -SmartCart-Customer-Clustering-Smart-Recommendation-System
+# SmartCart Customer Clustering Smart Recommendation System
 SmartCart is a Machine Learning-based customer segmentation and smart shopping cart analysis system that uses clustering algorithms to group customers based on purchasing behavior.
 # Technologies Used
 Python
